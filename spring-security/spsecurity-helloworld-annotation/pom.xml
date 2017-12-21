@@ -23,7 +23,7 @@
 			<scope>provided</scope>
 		</dependency>
 
-		<!-- Spring 3 dependencies -->
+		<!-- Sprin dependencies -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
